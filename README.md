@@ -19,5 +19,5 @@ Por fim, o trabalho inclui uma etapa de **validação crítica**: o texto gerado
 
 ## Fontes
 
-Portal: https://dados.ons.org.br/
-Conjunto de dados: https://dados.ons.org.br/dataset/carga-energia-verificada
+Portal: https://dados.ons.org.br/  
+Conjunto de dados: https://dados.ons.org.br/dataset/carga-energia-verificada  
