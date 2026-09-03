@@ -1,13 +1,13 @@
 # CP_SERS_Analise_Dados_Energia
 ## Integrantes:
-Gabriela Silva - RM: 570808
-Izabelly Menezes - RM: 570673
-Marcos Sampaio - RM: 573987
-Otávio Santos - RM: 570225
-Tiago Muhlmann - RM: 569569
-Wesley Marques - RM: 573915
+Gabriela Silva - RM: 570808  
+Izabelly Menezes - RM: 570673  
+Marcos Sampaio - RM: 573987  
+Otávio Santos - RM: 570225  
+Tiago Muhlmann - RM: 569569  
+Wesley Marques - RM: 573915  
 
-**Descrição do trabalho**
+## Descrição do trabalho
 
 Este trabalho consiste em uma análise exploratória de dados de carga elétrica verificada da área SP, obtidos via API pública do ONS (Operador Nacional do Sistema Elétrico), cobrindo o período de 01 a 07/08/2025 (336 medições em intervalos de 30 minutos).
 
